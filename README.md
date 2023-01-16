@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hemant Raj
-- 👀 I’m interested in Web developer,data science and robotics
+- 👀 I’m interested in Web-dev,data science and robotics
 - 🌱 I’m currently learning DSA in C++
 - 💞️ I’m looking to collaborate on Project related to interest
 - 📫 How to reach me  hemantraj587@gmail.com, 
