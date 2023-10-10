@@ -43,9 +43,6 @@ Please feel free to get in touch with me via [Email](mailto:hemantraj587@gmail.c
 </div> 
 
 
-
-
-<h3 align="center">Get in touch</h3>
 <p align="center">
 
 - GDSC PCE, Purnea Lead [GDSC](https://gdsc.community.dev/purnea-college-of-engineering-purnea/)
