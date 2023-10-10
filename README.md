@@ -8,13 +8,9 @@ Currently, I am enrolled in data science course from IIT Madras.
 
 <br>
 <p>
-I have created several projects on web development. I secured 3rd Position in the National Science Day Project Exhibition organised by Bihar Council Of Science & Technology.
-
+I have created several projects on web development.
 
 Please feel free to get in touch with me via [Email](mailto:hemantraj587@gmail.com)</p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hemant087&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 
 ## Connect with me  
 <div align="center">
@@ -31,3 +27,28 @@ Please feel free to get in touch with me via [Email](mailto:hemantraj587@gmail.c
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+
+
+
+<h3 align="center">GitHub Stats</h3>
+
+<div>
+<p align="center">
+<a href="https://github.com/hemant087">
+<img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hemant087&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hemant087&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p> 
+</div> 
+
+
+
+
+<h3 align="center">Get in touch</h3>
+<p align="center">
+
+- GDSC PCE, Purnea Lead [GDSC](https://gdsc.community.dev/purnea-college-of-engineering-purnea/)
+- IIT Madras Bs Degree [IITM](https://app.onlinedegree.iitm.ac.in/student/22F3002894)
+- Download my latest [Resume](https://drive.google.com/file/d/1BAJ0jqkBJCblrYeYRQY4ImFuV8iY9lGb/view?usp=sharing)
+</p>
