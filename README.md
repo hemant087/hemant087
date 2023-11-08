@@ -47,5 +47,5 @@ Please feel free to get in touch with me via [Email](mailto:hemantraj587@gmail.c
 
 - GDSC PCE, Purnea Lead [GDSC](https://gdsc.community.dev/purnea-college-of-engineering-purnea/)
 - IIT Madras Bs Degree [IITM](https://app.onlinedegree.iitm.ac.in/student/22F3002894)
-- Download my latest [Resume](https://drive.google.com/file/d/1BAJ0jqkBJCblrYeYRQY4ImFuV8iY9lGb/view?usp=sharing)
+- Download my latest [Resume](https://drive.google.com/file/d/1QkrAGoARpIGzHzP6SOdA1seCaU9jhZ3Q/view?usp=drive_link)
 </p>
