@@ -2,15 +2,15 @@
      <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Hemant+Raj;Data+Science+Student"/>
 </div>
 
-<p align="justify">I am a technology enthusiast, designer, coder and nature lover. I'm a person who likes to constantly upgrade myself and contribute to the society. I'm in a journey of acquiring knowledge in various fields which interests me.
+
+- 🌱 I’m currently learning **Django**
+
+- 💬 Ask me about **Python, ML, Data Science and Django**
  
 Currently, I am enrolled in data science course from IIT Madras. 
 
 <br>
-<p>
-I have created several projects on web development.
-
-Please feel free to get in touch with me via [Email](mailto:hemantraj587@gmail.com)</p>
+<p> Please feel free to get in touch with me via [Email](mailto:hemantraj587@gmail.com)</p>
 
 ## Connect with me  
 <div align="center">
